@@ -5,10 +5,11 @@ __pycache__/
 lecture_note/
 # C extensions
 *.so
-
+.env
 Scripts/
 share/
 pyenv.cfg
+results/
 
 # Distribution / packaging
 .Python
